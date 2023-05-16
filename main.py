@@ -1,7 +1,6 @@
 # Multiparadigmatic  programming languages:Task_7
 # Bolshunova Kateryna:IKM-221a
 
-
 print('Multiparadigmatic  programming languages:Task_7\nKateryna Bolshunova:IKM-221a')
 class Complex:
     def __init__(self, r, phi):
